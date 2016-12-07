@@ -1,2 +1,2 @@
 # dta2csv
-Convert .dta files to .csv files
+Commmand line tool to convert .dta files to .csv files
