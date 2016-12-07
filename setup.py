@@ -60,7 +60,7 @@ setup(
     # pip to create the appropriate form of executable for the target platform.
     entry_points={
         'console_scripts': [
-            'dta2csv=main:convert',
+            'dta2csv=src.main:convert',
         ],
     },
 )
